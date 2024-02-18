@@ -1,0 +1,2868 @@
+16-05-23 00:01:22.065 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Starting BookStoreProjectApplication using Java 17.0.6 with PID 19616 (C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject\target\classes started by sadha in C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject)
+16-05-23 00:01:22.065 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                No active profile set, falling back to 1 default profile: "default"
+16-05-23 00:01:22.479 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Starting...
+16-05-23 00:01:22.505 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+
+                                bookdbc - Added connection com.mysql.cj.jdbc.ConnectionImpl@552b20cd
+16-05-23 00:01:22.505 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Start completed.
+16-05-23 00:01:23.185 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Started BookStoreProjectApplication in 1.234 seconds (process running for 260.348)
+16-05-23 00:03:45.948 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Starting BookStoreProjectApplication using Java 17.0.6 with PID 18904 (C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject\target\classes started by sadha in C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject)
+16-05-23 00:03:45.951 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                No active profile set, falling back to 1 default profile: "default"
+16-05-23 00:03:48.218 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Starting...
+16-05-23 00:03:48.524 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+
+                                bookdbc - Added connection com.mysql.cj.jdbc.ConnectionImpl@292eb704
+16-05-23 00:03:48.527 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Start completed.
+16-05-23 00:03:51.441 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown initiated...
+16-05-23 00:03:51.451 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown completed.
+16-05-23 00:04:03.568 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Starting BookStoreProjectApplication using Java 17.0.6 with PID 19932 (C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject\target\classes started by sadha in C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject)
+16-05-23 00:04:03.570 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                No active profile set, falling back to 1 default profile: "default"
+16-05-23 00:04:05.234 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Starting...
+16-05-23 00:04:05.500 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+
+                                bookdbc - Added connection com.mysql.cj.jdbc.ConnectionImpl@39db27c6
+16-05-23 00:04:05.502 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Start completed.
+16-05-23 00:04:07.352 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Started BookStoreProjectApplication in 4.088 seconds (process running for 4.974)
+16-05-23 00:07:14.797 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 00:07:14.882 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@833fd62
+16-05-23 00:07:14.882 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 00:10:11.090 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Starting BookStoreProjectApplication using Java 17.0.6 with PID 2700 (C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject\target\classes started by sadha in C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject)
+16-05-23 00:10:11.093 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                No active profile set, falling back to 1 default profile: "default"
+16-05-23 00:10:13.442 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Starting...
+16-05-23 00:10:13.768 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+
+                                bookdbc - Added connection com.mysql.cj.jdbc.ConnectionImpl@79c63d2f
+16-05-23 00:10:13.770 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Start completed.
+16-05-23 00:10:16.348 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown initiated...
+16-05-23 00:10:16.361 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown completed.
+16-05-23 00:10:19.640 [RMI TCP Connection(8)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown initiated...
+16-05-23 00:10:19.648 [RMI TCP Connection(8)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown completed.
+16-05-23 00:10:27.346 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Starting BookStoreProjectApplication using Java 17.0.6 with PID 7848 (C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject\target\classes started by sadha in C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject)
+16-05-23 00:10:27.348 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                No active profile set, falling back to 1 default profile: "default"
+16-05-23 00:10:28.967 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Starting...
+16-05-23 00:10:29.211 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+
+                                bookdbc - Added connection com.mysql.cj.jdbc.ConnectionImpl@73cb4c16
+16-05-23 00:10:29.214 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Start completed.
+16-05-23 00:10:31.093 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Started BookStoreProjectApplication in 4.003 seconds (process running for 4.982)
+16-05-23 00:17:24.427 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown initiated...
+16-05-23 00:17:24.434 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown completed.
+16-05-23 00:17:24.503 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Starting BookStoreProjectApplication using Java 17.0.6 with PID 7848 (C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject\target\classes started by sadha in C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject)
+16-05-23 00:17:24.504 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                No active profile set, falling back to 1 default profile: "default"
+16-05-23 00:17:24.761 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Starting...
+16-05-23 00:17:24.778 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+
+                                bookdbc - Added connection com.mysql.cj.jdbc.ConnectionImpl@39da3a76
+16-05-23 00:17:24.779 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Start completed.
+16-05-23 00:17:25.197 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Started BookStoreProjectApplication in 0.713 seconds (process running for 419.087)
+16-05-23 00:17:47.755 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 00:17:47.884 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks()=[com.example.BookStoreProject.Entity.Book@42464cbb, com.example.BookStoreProject.Entity.Book@5d82ed19, com.example.BookStoreProject.Entity.Book@678a7377, com.example.BookStoreProject.Entity.Book@7b339870, com.example.BookStoreProject.Entity.Book@77c0be60]
+16-05-23 00:17:47.884 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 00:21:19.943 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown initiated...
+16-05-23 00:21:19.950 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown completed.
+16-05-23 00:21:20.041 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Starting BookStoreProjectApplication using Java 17.0.6 with PID 7848 (C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject\target\classes started by sadha in C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject)
+16-05-23 00:21:20.042 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                No active profile set, falling back to 1 default profile: "default"
+16-05-23 00:21:20.285 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Starting...
+16-05-23 00:21:20.296 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+
+                                bookdbc - Added connection com.mysql.cj.jdbc.ConnectionImpl@2fd6a1d1
+16-05-23 00:21:20.297 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Start completed.
+16-05-23 00:21:20.652 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Started BookStoreProjectApplication in 0.631 seconds (process running for 654.541)
+16-05-23 00:27:28.605 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown initiated...
+16-05-23 00:27:28.611 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown completed.
+16-05-23 00:27:28.682 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Starting BookStoreProjectApplication using Java 17.0.6 with PID 7848 (C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject\target\classes started by sadha in C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject)
+16-05-23 00:27:28.682 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                No active profile set, falling back to 1 default profile: "default"
+16-05-23 00:27:28.980 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Starting...
+16-05-23 00:27:28.993 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+
+                                bookdbc - Added connection com.mysql.cj.jdbc.ConnectionImpl@10366cab
+16-05-23 00:27:28.994 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Start completed.
+16-05-23 00:27:29.375 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Started BookStoreProjectApplication in 0.712 seconds (process running for 1023.265)
+16-05-23 00:40:48.886 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown initiated...
+16-05-23 00:40:48.895 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown completed.
+16-05-23 00:40:48.984 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Starting BookStoreProjectApplication using Java 17.0.6 with PID 7848 (C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject\target\classes started by sadha in C:\Users\sadha\Downloads\BookStoreProject\BookStoreProject)
+16-05-23 00:40:48.985 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                No active profile set, falling back to 1 default profile: "default"
+16-05-23 00:40:49.271 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Starting...
+16-05-23 00:40:49.289 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool -
+
+                                bookdbc - Added connection com.mysql.cj.jdbc.ConnectionImpl@3fa68afb
+16-05-23 00:40:49.289 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Start completed.
+16-05-23 00:40:49.874 [restartedMain] INFO  c.e.B.BookStoreProjectApplication -
+
+                                Started BookStoreProjectApplication in 0.917 seconds (process running for 1823.764)
+16-05-23 01:29:24.531 [bookdbc housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool -
+
+                                bookdbc - Thread starvation or clock leap detected (housekeeper delta=1m34s486ms119µs300ns).
+16-05-23 01:35:38.526 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown initiated...
+16-05-23 01:35:38.535 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource -
+
+                                bookdbc - Shutdown completed.
+16-05-23 02:19:32.248 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 02:19:32.255 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:12:48.666 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 15:12:48.687 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@7144655b
+16-05-23 15:12:48.689 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 15:12:48.704 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 15:12:48.706 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:15:14.100 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 15:15:14.117 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@35835e65
+16-05-23 15:15:14.118 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 15:15:14.134 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 15:15:14.134 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:15:14.140 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 15:15:14.140 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 15:15:14.143 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 15:15:14.144 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 15:17:08.068 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 15:17:08.084 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@7a231dfd
+16-05-23 15:17:08.085 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 15:17:08.098 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 15:17:08.099 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:17:08.104 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 15:17:08.104 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 15:17:08.108 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 15:17:08.108 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 15:17:08.111 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 15:17:08.112 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 15:17:08.117 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 15:17:08.117 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 15:19:15.527 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 15:19:15.544 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@1fde4f40
+16-05-23 15:19:15.545 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 15:19:15.558 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 15:19:15.558 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:19:15.562 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 15:19:15.563 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 15:19:15.568 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 15:19:15.568 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 15:19:15.570 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 15:19:15.571 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 15:19:15.573 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 15:19:15.574 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 15:19:15.576 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 15:19:15.577 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 15:19:15.580 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 15:19:15.580 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 15:20:19.198 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 15:20:19.199 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@6b45405e
+16-05-23 15:20:19.199 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 15:20:19.202 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 15:20:19.203 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:20:19.206 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 15:20:19.207 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 15:20:19.209 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 15:20:19.209 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 15:20:19.211 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 15:20:19.211 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 15:20:19.213 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 15:20:19.213 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 15:20:19.215 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 15:20:19.215 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 15:20:19.217 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 15:20:19.218 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 15:28:56.399 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 15:28:56.401 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:34:19.779 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:34:19.794 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 15:34:19.818 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 15:34:19.819 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:34:19.826 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:34:19.831 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:34:57.002 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:34:57.016 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 15:34:57.033 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 15:34:57.033 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:34:57.041 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:34:57.046 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:37:14.667 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:37:14.671 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 15:37:14.684 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 15:37:14.684 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:37:14.689 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:37:14.691 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:40:27.150 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:40:27.154 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 15:40:27.166 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 15:40:27.166 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 15:40:27.172 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 15:40:27.172 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:40:27.180 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:40:27.185 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:43:39.506 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:43:39.510 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 15:43:39.522 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 15:43:39.522 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 15:43:39.526 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 15:43:39.526 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:43:39.529 [main] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method started
+16-05-23 15:43:39.530 [main] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method ended
+16-05-23 15:43:39.559 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:43:39.562 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:44:03.164 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:44:03.165 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 15:44:03.167 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 15:44:03.168 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 15:44:03.171 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 15:44:03.172 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:44:03.174 [main] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method started
+16-05-23 15:44:03.174 [main] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method ended
+16-05-23 15:44:03.183 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:44:03.187 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 15:44:03.210 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 15:44:03.210 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@679ba4a9
+16-05-23 15:44:03.210 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 15:44:03.212 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 15:44:03.212 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 15:44:03.215 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 15:44:03.215 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 15:44:03.217 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 15:44:03.217 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 15:44:03.219 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 15:44:03.219 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 15:44:03.221 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 15:44:03.222 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 15:44:03.223 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 15:44:03.223 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 15:44:03.225 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 15:44:03.226 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 17:50:49.604 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 17:50:49.608 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 17:50:49.611 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 17:50:49.611 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 17:50:49.613 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 17:50:49.614 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 17:50:49.616 [main] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method started
+16-05-23 17:50:49.617 [main] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method ended
+16-05-23 17:50:49.625 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 17:50:49.629 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 17:50:49.646 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 17:50:49.647 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@23897113
+16-05-23 17:50:49.648 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 17:50:49.650 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 17:50:49.651 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 17:50:49.654 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 17:50:49.655 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 17:50:49.658 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 17:50:49.659 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 17:50:49.661 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 17:50:49.661 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 17:50:49.664 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 17:50:49.664 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 17:50:49.666 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 17:50:49.667 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 17:50:49.669 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 17:50:49.669 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 18:43:30.106 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 18:43:30.107 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 18:43:30.111 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 18:43:30.111 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 18:43:30.113 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 18:43:30.113 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 18:43:30.114 [main] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method started
+16-05-23 18:43:30.114 [main] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method ended
+16-05-23 18:43:30.125 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 18:43:30.129 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 18:43:30.155 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 18:43:30.156 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@50bbad5c
+16-05-23 18:43:30.156 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 18:43:30.159 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 18:43:30.159 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 18:43:30.162 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 18:43:30.163 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 18:43:30.164 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 18:43:30.166 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 18:43:30.167 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 18:43:30.167 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 18:43:30.169 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 18:43:30.169 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 18:43:30.172 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 18:43:30.172 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 18:43:30.174 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 18:43:30.174 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 18:58:29.980 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 18:58:29.981 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 18:58:29.983 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 18:58:29.984 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 18:58:29.987 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 18:58:29.987 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 18:58:29.989 [main] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method started
+16-05-23 18:58:29.989 [main] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method ended
+16-05-23 18:58:29.999 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 18:58:30.003 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 18:58:30.038 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 18:58:30.040 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@52e9e960
+16-05-23 18:58:30.040 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 18:58:30.043 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 18:58:30.043 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 18:58:30.045 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 18:58:30.045 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 18:58:30.047 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 18:58:30.047 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 18:58:30.049 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 18:58:30.049 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 18:58:30.050 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 18:58:30.051 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 18:58:30.053 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 18:58:30.053 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 18:58:30.056 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 18:58:30.056 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 19:11:00.829 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:11:00.829 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:14:42.903 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:14:42.903 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:14:42.923 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:14:42.923 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:14:53.690 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:14:53.690 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:14:53.709 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:14:53.709 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:15:01.053 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method started
+16-05-23 19:15:01.053 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method ended
+16-05-23 19:15:07.571 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method started
+16-05-23 19:15:07.571 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method ended
+16-05-23 19:15:12.545 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method started
+16-05-23 19:15:12.545 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                SearchTransactions() method ended
+16-05-23 19:21:08.234 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:21:08.234 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:21:16.838 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:21:16.838 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:21:16.864 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:21:16.864 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:21:18.503 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:21:18.503 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:21:18.519 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:21:18.519 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:21:20.785 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:21:20.785 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:21:20.813 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:21:20.813 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:24:44.752 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:24:44.752 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:24:44.924 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:24:44.925 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:24:47.430 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:24:47.430 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:24:47.463 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:24:47.463 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:25:59.059 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:25:59.059 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:25:59.093 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:25:59.093 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:28:50.238 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:28:50.245 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 19:28:50.260 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 19:28:50.261 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 19:28:50.265 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:28:50.266 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:28:50.278 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:28:50.281 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:30:02.918 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:30:02.922 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 19:30:02.939 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 19:30:02.940 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 19:30:02.945 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:30:02.945 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:30:02.955 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:30:02.959 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:30:29.765 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:30:29.766 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 19:30:29.769 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 19:30:29.769 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 19:30:29.772 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:30:29.772 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:30:29.777 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:30:29.782 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:30:29.808 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 19:30:29.808 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@c04b755
+16-05-23 19:30:29.809 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 19:30:29.810 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:30:29.811 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:30:29.813 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 19:30:29.814 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 19:30:29.816 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 19:30:29.816 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 19:30:29.818 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 19:30:29.818 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 19:30:29.821 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 19:30:29.821 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 19:30:29.822 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 19:30:29.822 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 19:30:29.825 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 19:30:29.825 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 19:30:55.117 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:30:55.118 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 19:30:55.120 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 19:30:55.121 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 19:30:55.126 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:30:55.126 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:30:55.133 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:30:55.136 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:30:55.182 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 19:30:55.183 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@21225732
+16-05-23 19:30:55.183 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 19:30:55.187 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:30:55.187 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:30:55.191 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 19:30:55.193 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 19:30:55.198 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 19:30:55.199 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 19:30:55.203 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 19:30:55.204 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 19:30:55.208 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 19:30:55.209 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 19:30:55.212 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 19:30:55.213 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 19:30:55.216 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 19:30:55.216 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 19:35:14.385 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:35:14.386 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 19:35:14.389 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 19:35:14.390 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 19:35:14.396 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:35:14.397 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:35:14.405 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:35:14.409 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:35:14.452 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 19:35:14.454 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@55d73f7
+16-05-23 19:35:14.454 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 19:35:14.457 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:35:14.458 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:35:14.463 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 19:35:14.463 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 19:35:14.466 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 19:35:14.466 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 19:35:14.469 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 19:35:14.471 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 19:35:14.474 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 19:35:14.475 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 19:35:14.477 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 19:35:14.478 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 19:35:14.481 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 19:35:14.482 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 19:41:36.343 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:41:36.344 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 19:41:36.346 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 19:41:36.347 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 19:41:36.351 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:41:36.352 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:41:36.357 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:41:36.360 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:41:36.391 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 19:41:36.391 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@5e484f15
+16-05-23 19:41:36.392 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 19:41:36.395 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:41:36.395 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:41:36.398 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 19:41:36.398 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 19:41:36.400 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 19:41:36.400 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 19:41:36.402 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 19:41:36.403 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 19:41:36.405 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 19:41:36.405 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 19:41:36.407 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 19:41:36.407 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 19:41:36.410 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 19:41:36.410 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 19:44:50.177 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:44:50.178 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 19:44:50.180 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 19:44:50.181 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 19:44:50.184 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:44:50.185 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:44:50.191 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:44:50.195 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:44:50.230 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 19:44:50.231 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@43e3da00
+16-05-23 19:44:50.232 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 19:44:50.236 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:44:50.237 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:44:50.239 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 19:44:50.240 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 19:44:50.243 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 19:44:50.243 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 19:44:50.245 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 19:44:50.246 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 19:44:50.249 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 19:44:50.249 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 19:44:50.251 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 19:44:50.251 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 19:44:50.255 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 19:44:50.255 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 19:46:49.770 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:46:49.771 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+16-05-23 19:46:49.773 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+16-05-23 19:46:49.774 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+16-05-23 19:46:49.778 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:46:49.778 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:46:49.785 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:46:49.788 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+16-05-23 19:46:49.820 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+16-05-23 19:46:49.821 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@43e3da00
+16-05-23 19:46:49.821 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+16-05-23 19:46:49.823 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+16-05-23 19:46:49.824 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+16-05-23 19:46:49.826 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 19:46:49.827 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 19:46:49.828 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+16-05-23 19:46:49.829 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+16-05-23 19:46:49.832 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 19:46:49.832 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 19:46:49.834 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+16-05-23 19:46:49.835 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+16-05-23 19:46:49.837 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 19:46:49.837 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+16-05-23 19:46:49.840 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+16-05-23 19:46:49.841 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+17-05-23 14:23:44.550 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:23:44.552 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 14:23:44.860 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:23:44.860 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 14:23:45.441 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:23:45.441 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 14:23:45.470 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:23:45.470 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 14:23:46.480 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:23:46.480 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 14:23:46.512 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:23:46.512 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 14:23:48.960 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:23:48.960 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 14:23:49.003 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:23:49.004 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 14:48:04.815 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:48:04.815 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 14:48:04.840 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:48:04.841 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 14:48:07.299 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:48:07.299 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 14:48:07.322 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:48:07.322 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 14:48:10.131 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:48:10.133 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 14:48:10.161 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 14:48:10.161 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:25:21.637 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:25:21.637 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:25:21.735 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:25:21.735 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:43:39.114 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:43:39.114 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:43:39.145 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:43:39.145 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:43:43.910 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:43:43.910 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:43:43.931 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:43:43.931 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:43:46.081 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:43:46.081 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:43:46.096 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:43:46.096 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:43:49.392 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:43:49.392 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:43:49.413 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:43:49.413 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:43:51.973 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:43:51.973 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:43:51.997 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:43:51.997 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:43:58.303 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:43:58.303 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:43:58.320 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:43:58.320 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:54:54.522 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+17-05-23 17:54:54.523 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+17-05-23 17:54:54.525 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+17-05-23 17:54:54.526 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+17-05-23 17:54:54.529 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:54:54.530 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:54:54.535 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+17-05-23 17:54:54.538 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+17-05-23 17:54:54.569 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+17-05-23 17:54:54.570 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@479b206b
+17-05-23 17:54:54.570 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+17-05-23 17:54:54.573 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 17:54:54.573 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 17:54:54.576 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+17-05-23 17:54:54.577 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+17-05-23 17:54:54.579 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+17-05-23 17:54:54.579 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+17-05-23 17:54:54.581 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+17-05-23 17:54:54.581 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+17-05-23 17:54:54.584 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+17-05-23 17:54:54.584 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+17-05-23 17:54:54.585 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+17-05-23 17:54:54.585 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+17-05-23 17:54:54.588 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+17-05-23 17:54:54.588 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+17-05-23 19:26:55.295 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+17-05-23 19:26:55.311 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+17-05-23 19:26:55.433 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+17-05-23 19:26:55.433 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+17-05-23 19:26:58.682 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:26:58.682 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:26:58.721 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:26:58.721 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:27:04.217 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:27:04.217 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:27:04.246 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:27:04.246 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:27:14.878 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:27:14.878 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:27:14.904 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:27:14.904 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:28:13.795 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:28:13.795 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:28:13.820 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:28:13.820 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:28:22.564 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:28:22.564 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:28:22.588 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:28:22.588 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:28:25.024 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:28:25.024 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:28:25.040 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:28:25.040 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:28:49.115 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:28:49.115 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:28:49.134 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:28:49.134 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:28:56.533 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:28:56.533 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:28:56.546 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:28:56.546 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:28:59.927 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+17-05-23 19:28:59.927 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+17-05-23 19:29:00.108 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:00.108 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:03.422 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:03.422 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:03.439 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:03.439 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:06.911 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:06.911 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:06.922 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:06.922 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:09.093 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:09.093 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:09.109 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:09.109 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:12.945 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:12.953 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:12.970 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:12.970 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:16.807 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:16.807 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:16.824 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:16.827 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:19.355 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:19.355 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:19.371 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:19.371 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:21.744 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:21.744 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:21.757 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:21.757 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:23.912 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:23.912 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:23.929 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:23.929 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:29.852 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:29.852 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:29.869 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:29.869 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:32.359 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:32.361 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:32.372 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:32.372 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:35.075 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:35.075 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:35.090 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:35.090 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:37.553 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:37.553 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:37.578 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:37.578 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:47.875 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:47.875 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:47.892 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:47.892 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:50.232 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:50.232 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:50.247 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:50.247 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:52.799 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:52.800 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:52.811 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:52.811 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:54.873 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:54.873 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 19:29:54.889 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 19:29:54.889 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:36:26.475 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:36:26.475 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:36:26.502 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:36:26.502 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:37:08.913 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+17-05-23 20:37:08.913 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+17-05-23 20:37:08.919 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:37:08.919 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:37:08.924 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+17-05-23 20:37:08.927 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+17-05-23 20:37:08.947 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+17-05-23 20:37:08.948 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@75f2a654
+17-05-23 20:37:08.948 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+17-05-23 20:37:08.950 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:37:08.950 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:37:08.953 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+17-05-23 20:37:08.953 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+17-05-23 20:37:08.955 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+17-05-23 20:37:08.955 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+17-05-23 20:37:08.957 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+17-05-23 20:37:08.957 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+17-05-23 20:37:08.961 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+17-05-23 20:37:08.962 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+17-05-23 20:37:08.963 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+17-05-23 20:37:08.963 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+17-05-23 20:37:08.965 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+17-05-23 20:37:08.966 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+17-05-23 20:37:38.245 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+17-05-23 20:37:38.246 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+17-05-23 20:37:38.248 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+17-05-23 20:37:38.248 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+17-05-23 20:37:38.250 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:37:38.250 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:37:38.254 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+17-05-23 20:37:38.256 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+17-05-23 20:37:38.273 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+17-05-23 20:37:38.273 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@69f35d31
+17-05-23 20:37:38.273 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+17-05-23 20:37:38.275 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:37:38.276 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:37:38.278 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+17-05-23 20:37:38.278 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+17-05-23 20:37:38.280 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+17-05-23 20:37:38.280 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+17-05-23 20:37:38.281 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+17-05-23 20:37:38.281 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+17-05-23 20:37:38.282 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+17-05-23 20:37:38.282 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+17-05-23 20:37:38.283 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+17-05-23 20:37:38.283 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+17-05-23 20:37:38.284 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+17-05-23 20:37:38.285 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+17-05-23 20:38:02.320 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:02.320 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:02.338 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:02.338 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:05.925 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:05.925 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:05.932 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:05.932 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:17.076 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+17-05-23 20:38:17.076 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+17-05-23 20:38:17.100 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:17.100 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:23.621 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:23.621 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:23.639 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:23.639 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:35.460 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:35.460 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:35.478 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:35.478 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:41.679 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:41.679 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:41.687 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:41.687 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:52.263 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:52.263 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:52.280 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:52.280 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:58.825 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:58.825 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:38:58.839 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:38:58.839 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:39:03.163 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:39:03.163 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:39:03.176 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:39:03.176 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:39:24.438 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+17-05-23 20:39:24.469 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@5523d818
+17-05-23 20:39:24.469 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+17-05-23 20:39:24.491 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:39:24.491 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:39:24.497 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:39:24.497 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:39:38.240 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:39:38.240 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:39:38.257 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:39:38.257 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:39:45.790 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:39:45.790 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:39:45.806 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:39:45.806 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:39:55.020 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:39:55.020 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:39:55.033 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:39:55.033 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:40:14.058 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+17-05-23 20:40:14.080 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+17-05-23 20:40:16.346 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:40:16.346 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:40:16.364 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:40:16.364 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:40:22.872 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:40:22.872 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:40:22.884 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:40:22.885 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:40:35.410 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+17-05-23 20:40:35.427 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+17-05-23 20:40:38.110 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:40:38.111 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:40:38.119 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:40:38.119 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:40:44.221 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:40:44.221 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:40:44.240 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:40:44.240 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:41:13.346 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:41:13.346 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:41:13.362 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:41:13.362 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:41:49.796 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:41:49.797 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:41:49.804 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:41:49.804 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:43:25.868 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:43:25.868 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:43:25.881 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:43:25.881 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:44:00.342 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:44:00.342 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:44:00.361 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:44:00.362 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:48:04.409 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:48:04.409 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+17-05-23 20:48:04.427 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+17-05-23 20:48:04.427 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+18-05-23 14:08:28.850 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+18-05-23 14:08:28.850 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+18-05-23 14:08:29.164 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+18-05-23 14:08:29.164 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+18-05-23 14:08:33.393 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+18-05-23 14:08:33.393 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+18-05-23 14:08:33.465 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+18-05-23 14:08:33.465 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+18-05-23 14:08:57.370 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+18-05-23 14:08:57.370 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+18-05-23 14:08:57.387 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+18-05-23 14:08:57.387 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+18-05-23 14:08:58.598 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+18-05-23 14:08:58.598 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+18-05-23 14:08:58.630 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+18-05-23 14:08:58.630 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+18-05-23 14:09:11.325 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+18-05-23 14:09:11.328 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+18-05-23 14:09:11.357 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+18-05-23 14:09:11.357 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+19-05-23 14:06:32.967 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+19-05-23 14:06:32.968 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+19-05-23 14:06:32.970 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+19-05-23 14:06:32.971 [main] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+19-05-23 14:06:32.973 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+19-05-23 14:06:32.974 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+19-05-23 14:06:32.980 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+19-05-23 14:06:32.983 [main] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+19-05-23 14:06:33.010 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method started
+19-05-23 14:06:33.010 [main] INFO  c.e.B.Controller.BookController -
+
+                                addedBook=com.example.BookStoreProject.Entity.Book@2127a694
+19-05-23 14:06:33.011 [main] INFO  c.e.B.Controller.BookController -
+
+                                addBook() method ended
+19-05-23 14:06:33.014 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+19-05-23 14:06:33.014 [main] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+19-05-23 14:06:33.017 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+19-05-23 14:06:33.017 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+19-05-23 14:06:33.019 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method started
+19-05-23 14:06:33.019 [main] INFO  c.e.B.Controller.BookController -
+
+                                updateBook() method ended
+19-05-23 14:06:33.021 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+19-05-23 14:06:33.022 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+19-05-23 14:06:33.025 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method started
+19-05-23 14:06:33.025 [main] INFO  c.e.B.Controller.BookController -
+
+                                getBookById() method ended
+19-05-23 14:06:33.026 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+19-05-23 14:06:33.026 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+19-05-23 14:06:33.029 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method started
+19-05-23 14:06:33.029 [main] INFO  c.e.B.Controller.BookController -
+
+                                deleteBook() method ended
+19-05-23 14:39:43.285 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+19-05-23 14:39:43.292 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+19-05-23 14:39:43.667 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+19-05-23 14:39:43.667 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+19-05-23 14:39:48.891 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+19-05-23 14:39:48.891 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+19-05-23 14:39:48.962 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+19-05-23 14:39:48.962 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+19-05-23 14:39:54.543 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+19-05-23 14:39:54.544 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+19-05-23 14:39:54.571 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+19-05-23 14:39:54.572 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+19-05-23 16:34:26.963 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+19-05-23 16:34:26.964 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+19-05-23 16:34:27.029 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+19-05-23 16:34:27.029 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:46:41.459 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:46:41.459 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:46:41.868 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:46:41.868 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:46:45.508 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:46:45.510 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:46:45.528 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:46:45.528 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:48:02.527 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:48:02.529 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:48:02.551 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:48:02.553 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:48:58.747 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:48:58.748 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:48:58.756 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:48:58.756 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:49:12.413 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+21-05-23 17:50:51.407 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+21-05-23 17:52:00.665 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+21-05-23 17:52:09.920 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+21-05-23 17:52:23.003 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+21-05-23 17:52:40.664 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:52:40.664 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:52:40.689 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:52:40.689 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:53:34.271 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:53:34.271 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:53:34.300 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:53:34.300 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:53:52.588 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:53:52.589 [http-nio-8080-exec-4] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:53:52.604 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:53:52.604 [http-nio-8080-exec-2] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:54:14.672 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+21-05-23 17:54:14.751 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+21-05-23 17:54:21.817 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:54:21.820 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:54:21.841 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:54:21.841 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:54:43.516 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:54:43.516 [http-nio-8080-exec-10] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:54:43.534 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:54:43.534 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:54:44.712 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:54:44.712 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:54:44.728 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:54:44.728 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:54:56.601 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:54:56.601 [http-nio-8080-exec-6] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:54:56.625 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:54:56.625 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:55:02.271 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:55:02.274 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+21-05-23 17:55:02.288 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+21-05-23 17:55:02.288 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+24-05-23 10:23:47.692 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+24-05-23 10:23:47.696 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+24-05-23 10:24:18.372 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method started
+24-05-23 10:24:18.474 [http-nio-8080-exec-9] INFO  c.e.B.Controller.BookController -
+
+                                SoldBooks() method ended
+24-05-23 10:24:35.790 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+24-05-23 10:24:35.791 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+24-05-23 10:24:57.232 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method started
+24-05-23 10:24:57.254 [http-nio-8080-exec-3] INFO  c.e.B.Controller.BookController -
+
+                                PurchaseBook() method ended
+24-05-23 10:25:13.591 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+24-05-23 10:25:13.592 [http-nio-8080-exec-5] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+24-05-23 10:25:40.563 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+24-05-23 10:25:40.563 [http-nio-8080-exec-7] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+24-05-23 10:25:40.578 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method started
+24-05-23 10:25:40.578 [http-nio-8080-exec-8] INFO  c.e.B.Controller.BookController -
+
+                                getAllBooks() method ended
+24-05-23 14:11:37.281 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                getting all books
+24-05-23 14:11:37.281 [http-nio-8080-exec-1] INFO  c.e.B.Controller.BookController -
+
+                                Retrieving all the books
